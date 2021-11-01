@@ -4,6 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+seaborn = "*"
+ipykernel = "*"
+openpyxl = "*"
+plotly = "*"
+plotly-express = "*"
+nbformat = "*"
+lxml = "*"
 
 [dev-packages]
 
