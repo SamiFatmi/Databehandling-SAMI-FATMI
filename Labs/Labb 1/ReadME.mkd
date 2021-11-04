@@ -1,3 +1,5 @@
 # LAB 1 - DATABEHANDLING
 
- {% include_relative Visualiseringar/Upp1_d_New_Covid19_cases_per_week.html} 
+library(plotly)
+p <- plot_ly(economics, x = ~date, y = ~unemploy / pop)
+p
