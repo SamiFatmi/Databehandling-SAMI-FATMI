@@ -1,1 +1,59 @@
 # LAB 1 - DATABEHANDLING
+
+In this lab we had the chance to work with actual data concerning the evolution of the Covid19 and Vaccinations against Covid19 in Sweden. 
+
+Data was collected from the official website of the Public Health Agency of Sweden locally known as Folkhälsomyndigheten. 
+
+# Assignements :
+## Uppgift 1 : 
+
+In this assignement we could work with the Covid19 data. At first checking and "cleaning" the data. 
+
+The next thing to do was to combine 2 columns to get the week number by each year. This helped a lot in making our graphs and databrowsing way simpler. 
+
+At the end of the assignement several graphs had to be plotted and saved in different file formats. 
+
+Here are some graphs if not all of them. Please note that some graphs are available in their responsive html format in the "Visualiseringar" folder. 
+
+- graph 1 
+- graph 2 
+- graph 3 
+- graph 4 
+- graph 5
+
+
+## Uppgift 2 : 
+ 
+Now come the time to work with the vaccination data. Some questions had to be answered regarding data statistics and that could be done using Pandas. Then several graphs had to be printed out, here are pictures of the graphs ( responsive graphs can be found under the folder "Visualiseringar") : 
+
+- graph 1 
+- graph 2
+
+
+## Uppgift 3 : 
+
+In this assignement we were given the chance to decide what Key Performance Indicators sound the most important for tracking the progress of the vaccinations and the developement of the virus situation in Sweden, for the only condition that they should not be one of the properties we worked with in the previous assignements above.
+
+The main KPIs i decided to work on : 
+- Number of people who have taken the 1st dose in the whole country 
+- Number of people who have taken both doses in the whole country 
+- Number of vaccinations made every week
+- Number of people entering the intensive care every week
+
+
+The first 2 KPIs would help us check the progress of the vaccination process and see how we are doing in regards of reaching the goal of vaccinating >65% of the population. Both KPI are in almost in the same scale of values and thus can be shown in the same graph : 
+
+- graph 1 
+
+The third KPI would help us track the pace we are going at in the vaccination process to predict when we will reach our goal, and also to track if there is any problems or unusual acceleration or deceleration in the process and predict any possible issues. 
+
+- graph 2 
+
+The 4th KPI will give us an idea about the effect the vaccination process has, in a normal way the more people we have vaccinated the less people should be entering the intensive care units in the hospitals as we're almost reaching the "Herd immunity". 
+
+- graph 3 
+
+
+
+# Conclusion 
+This Lab gave me the chance to work on real data, as well as to get a feeling what real numbers and real data looks like. I could train my data analysing skills and work on some good practice every data analyst should have.
