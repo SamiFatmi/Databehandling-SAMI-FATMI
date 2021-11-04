@@ -56,4 +56,5 @@ The 4th KPI will give us an idea about the effect the vaccination process has, i
 
 
 # Conclusion 
-This Lab gave me the chance to work on real data, as well as to get a feeling what real numbers and real data looks like. I could train my data analysing skills and work on some good practice every data analyst should have.
+This Lab gave me the chance to work on real data, as well as to get a feeling what real numbers and real data looks like. I could train my data processing skills and work on some good practice every data analyst should have.
+
