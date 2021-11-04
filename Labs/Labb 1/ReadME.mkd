@@ -1,1 +1,3 @@
 # LAB 1 - DATABEHANDLING
+
+ {% include_relative Visualiseringar/Upp1_d_New_Covid19_cases_per_week.html} 
