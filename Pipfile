@@ -14,6 +14,11 @@ plotly = "*"
 plotly-express = "*"
 nbformat = "*"
 lxml = "*"
+numexpr = "*"
+bottleneck = "*"
+dash = "*"
+python-dotenv = "*"
+requests = "*"
 
 [dev-packages]
 
